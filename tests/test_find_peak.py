@@ -1,8 +1,5 @@
 """
 tests.test_find_peak
-----------------------------------
-
-Tests for AWS CLI helper methods
 """
 from unittest import TestCase
 
